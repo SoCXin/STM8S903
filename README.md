@@ -10,8 +10,6 @@
 
 STM8S903 is based on 16 MHz core and 20-32 pin packages. The Flash memory is 8 Kbytes, with 640 bytes of data EEPROM and 1 Kbyte of RAM.
 
-[![sites](SoC/STM8S90.png)]() 
-
 ### [资源收录](https://github.com/sochub/STM8S90)
 
 - [文档](docs/)
